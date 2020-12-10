@@ -1,0 +1,106 @@
+body{
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Crimson Text', serif;
+}
+
+header h1{
+	color: black;
+	font-size: 50px;
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+
+header img{
+	max-width: 50%;
+}
+
+main{
+	background-color: lightgrey;
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 10px 40px;
+}
+
+main img{
+	max-width: 100%;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+
+h2{
+	font-size: 30px;
+	color: black;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: teal;
+}
+
+a:hover{
+	color: white;
+	background-color: transparent;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 50px;
+
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	color: teal;
+	background-color: transparent;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+	margin-left: 150px;
+	font-size: 15px;
+}
+
+header img.logo{
+	max-width: 10%;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+body img {
+	opacity: 1;
+}
+
+body img:hover{
+	opacity: 0.8;
+}
+body a{
+	opacity: 1;
+}
+
+body a:hover{
+	opacity: 0.5;
+}
