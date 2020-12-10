@@ -90,17 +90,10 @@ header img.logo{
 	margin-bottom: 40px;
 }
 
-body img {
+main img {
 	opacity: 1;
 }
 
-body img:hover{
+main img:hover{
 	opacity: 0.8;
-}
-body a{
-	opacity: 1;
-}
-
-body a:hover{
-	opacity: 0.5;
 }
