@@ -38,6 +38,12 @@ main img{
 	max-width: 100%;
 	margin-left: 150px;
 	margin-top: 20px;
+	opacity: 1;
+
+}
+
+main img:hover{
+	opacity: 0.8;
 }
 
 h2{
@@ -90,10 +96,5 @@ header img.logo{
 	margin-bottom: 40px;
 }
 
-main img {
-	opacity: 1;
-}
 
-main img:hover{
-	opacity: 0.8;
-}
+
