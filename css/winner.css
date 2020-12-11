@@ -36,7 +36,7 @@ main{
 
 main img{
 	max-width: 100%;
-	margin-left: 150px;
+	margin-left: 120px;
 	margin-top: 20px;
 	opacity: 1;
 
@@ -86,7 +86,7 @@ p.caption{
 	color: #999999;
 	font-style: italic;
 	margin-top: 0;
-	margin-left: 150px;
+	margin-left: 120px;
 	font-size: 15px;
 }
 
